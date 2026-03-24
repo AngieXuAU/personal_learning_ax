@@ -1,3 +1,10 @@
+'''
+Angelina Xu
+560686845
+wexu0193
+'''
+
+
 
 def skip_this_image(file_object):
 
