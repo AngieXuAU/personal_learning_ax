@@ -1,0 +1,42 @@
+Title: Smiley Face
+  *****  
+ *     * 
+*  o o  *
+*   ^   *
+*  ---  *
+ *     * 
+  *****
+Title: House
+   /\   
+  /  \  
+ /----\ 
+ |    | 
+ |[]  | 
+ |    | 
+ ------
+Title: Tree
+    /\
+   /**\
+  /****\
+ /******\
+/********\
+    ||
+    ||
+Title: Tree
+    /\
+   /**\
+  /****\
+ /******\
+/********\
+    ||
+    ||
+Title: Smiley Face
+  *****  
+ *     * 
+*  o o  *
+*   ^   *
+*  ---  *
+ *     * 
+  *****
+Title: Random
+this is random text that shouldn't be skipped
